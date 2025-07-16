@@ -1,0 +1,11 @@
+flask
+scikit-learn
+xgboost
+tensorflow
+joblib
+pandas
+matplotlib
+seaborn
+scipy
+Pillow
+opencv-python
